@@ -1,5 +1,5 @@
 # Fala Jovens 👋
-![dev](https://github.com/carlosf1809/praticas-/blob/master/pratica12/imagens/gifGit.mp4)
+![dev](https://github.com/carlosf1809/praticas-/blob/master/pratica12/imagens/gifGitt.gif)
 
 
 
